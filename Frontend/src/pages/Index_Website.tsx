@@ -492,7 +492,7 @@ const Index_Website: React.FC = () => {
                       </span>
                     </h1>
                     <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-                      Join over 100k+ students who found their perfect career match. Connect with top employers and unlock unlimited opportunities.
+                      Join over 50k+ students who found their perfect career match. Connect with top employers and unlock unlimited opportunities.
                     </p>
                     {/* Enhanced Search Bar */}
                     <div className="bg-white rounded-2xl shadow-2xl p-6 mb-8 border border-gray-100">
